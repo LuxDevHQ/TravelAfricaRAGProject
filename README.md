@@ -1,6 +1,6 @@
 ### **Student Instructions: Travel Africa RAG Project**
 
-![Uploading image.png…]()
+![Uploading image.png…](https://github.com/LuxDevHQ/TravelAfricaRAGProject/blob/main/Travel%20Africa.png)
 
 You are required to build a **Travel Africa RAG Assistant** that helps users discover hotels, explore destinations, and plan trips across **Kenya and East Africa**.
 
