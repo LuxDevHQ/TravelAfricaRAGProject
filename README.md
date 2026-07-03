@@ -2,7 +2,6 @@
 
 ![Uploading image.png…]()
 
-
 You are required to build a **Travel Africa RAG Assistant** that helps users discover hotels, explore destinations, and plan trips across **Kenya and East Africa**.
 
 You have already learned **FastAPI** and how to build a **RAG system**. In this project, you will combine those skills by collecting hotel data, processing it, storing it in a vector database, and building a user interface based on the provided **Travel Africa RAG Template**.
